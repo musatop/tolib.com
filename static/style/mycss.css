@@ -1,0 +1,36 @@
+body{
+    background: linear-gradient(2deg, #dc0909 19%, #7a4343 100%);
+}
+
+
+.nav-link{
+    color: aliceblue;
+}
+
+    
+
+.navbar-nav .nav-link.active{
+    color: aliceblue;
+}
+.navbar-brand img{
+    width: 40px;
+}
+
+.navbar-toggler{
+
+
+    background-color: aliceblue;
+color: black;
+}
+
+.card a{
+
+    text-decoration: none;
+color: black;
+}
+
+@media(max-width: 755px){
+    .carousel-indicator{
+        display: none;
+    }
+}
